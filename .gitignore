@@ -1,2 +1,4 @@
 /venv/
-
+/venv/share/
+/venv/lib/
+/venv/share/
