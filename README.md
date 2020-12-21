@@ -7,3 +7,6 @@ My JavaScript Playground. Notes, To Dos' etc.
 * Built-in Methods ( dizilerle ilgili felan kısayollar mevcut.)
 * .assign ?
 * 
+
+Credits:
+moving objects: https://www.kirupa.com/canvas/moving_shapes_canvas_keyboard.html
